@@ -151,3 +151,5 @@ D:\dotnetcore\day48\WebApplicationExercise\WebApplicationExercise\obj\Debug\netc
 D:\dotnetcore\day48\WebApplicationExercise\WebApplicationExercise\obj\Debug\netcoreapp3.1\WebApplicationExercise.dll
 D:\dotnetcore\day48\WebApplicationExercise\WebApplicationExercise\obj\Debug\netcoreapp3.1\WebApplicationExercise.pdb
 D:\dotnetcore\day48\WebApplicationExercise\WebApplicationExercise\obj\Debug\netcoreapp3.1\WebApplicationExercise.genruntimeconfig.cache
+D:\dotnetcore\day48\WebApplicationExercise\WebApplicationExercise\obj\Debug\netcoreapp3.1\Razor\Views\Students\Index.cshtml.g.cs
+D:\dotnetcore\day48\WebApplicationExercise\WebApplicationExercise\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
